@@ -318,7 +318,7 @@ cp -r trending-news-aggregator ~/.openclaw/skills/
 
 欢迎提交Issue和PR！
 
-GitHub: https://github.com/yourusername/trending-news-aggregator
+GitHub: https://github.com/19X19BTR/trending-news-by-openclaw
 
 ## License
 
